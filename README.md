@@ -1,2 +1,2 @@
-# RFA_EGPD
+# regEgpd
 Regionalisation of the EGPD distribution
