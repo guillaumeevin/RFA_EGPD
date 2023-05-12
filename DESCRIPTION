@@ -1,0 +1,16 @@
+Package: regEgpd
+Type: Package
+Date: 2023-03-22
+License: GPL-3
+Title: Regional fitting of the EGPD
+Version: 1.1.0
+Authors@R: c(person("Guillaume","Evin",role = c("aut", "cre"),email="guillaume.evin@inrae.fr"))
+Author: Guillaume Evin [aut, cre]
+Maintainer: Guillaume Evin <guillaume.evin@inrae.fr>
+Imports: EnvStats, Renext, nleqslv, mev, extRemes, stats, utils, doSNOW, snow, foreach
+Description: :
+  - Haruna, A., J. Blanchet, and A.-C. Favre. 2021, HESS <https://doi.org/10.5194/hess-2021-546>.
+Depends: R (>= 2.10)
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+NeedsCompilation: no

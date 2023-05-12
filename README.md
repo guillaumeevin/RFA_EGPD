@@ -1,2 +1,2 @@
-# regEgpd
-Regionalisation of the EGPD distribution
+# RegEgpd
+Regional fitting of the EGPD
